@@ -1188,9 +1188,6 @@ video {
 .overflow-hidden {
   overflow: hidden;
 }
-.overflow-visible {
-  overflow: visible;
-}
 .overflow-x-auto {
   overflow-x: auto;
 }
@@ -1402,9 +1399,6 @@ video {
 }
 .object-cover {
   object-fit: cover;
-}
-.p-0 {
-  padding: 0px;
 }
 .p-1 {
   padding: 0.25rem;
@@ -3050,10 +3044,6 @@ video {
 
   .sm\:max-w-lg {
     max-width: 32rem;
-  }
-
-  .sm\:grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .sm\:rounded-lg {
