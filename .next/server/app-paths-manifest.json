@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/UserProfile/Edit/page": "app/UserProfile/Edit/page.js",
+  "/Coolers/SPTCooler/page": "app/Coolers/SPTCooler/page.js",
+  "/UserProfile/page": "app/UserProfile/page.js"
+}
