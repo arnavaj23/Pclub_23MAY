@@ -11,20 +11,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/Coolers/SPTCooler/page": [
+    "/Coolers/Hawells/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/Coolers/SPTCooler/page.js"
-    ],
-    "/UserProfile/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/UserProfile/page.js"
-    ],
-    "/UserProfile/Edit/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/UserProfile/Edit/page.js"
+      "static/chunks/app/Coolers/Hawells/page.js"
     ]
   }
 }
